@@ -18,6 +18,7 @@ class HomePage extends StatefulWidget {
 
 class HomePageState extends State<HomePage> {
   List widgets = [];
+  final String name;
   final List _imageUrls = [
     "http://pages.ctrip.com/commerce/promote/20180718/yxzy/img/640sygd.jpg",
     "http://pages.ctrip.com/commerce/promote/20180718/yxzy/img/640sygd.jpg",

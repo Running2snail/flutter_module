@@ -17,7 +17,6 @@ class GridNav extends StatefulWidget {
 
 }
 
-
 class _GridNavState extends State<GridNav> {
   @override
   Widget build(BuildContext context) {
